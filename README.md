@@ -26,7 +26,7 @@
 
 ### 许可证
 
-此项目根据MIT许可证授权。有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
+此项目根据MIT许可证授权。有关详细信息，请参阅 [LICENSE](https://github.com/kirakirai8023/Paypal-Plugin/blob/main/LICENSE) 文件。
 
 **免责声明**: 该软件按“原样”提供，不提供任何形式的保证，明示或暗示，包括但不限于适销性、适合特定目的和不侵权的保证。在任何情况下，作者或版权持有人均不对因本软件或本软件的使用或其他交易产生的任何索赔、损害或其他责任负责，无论是在合同诉讼、侵权或其他情况下。
 
@@ -56,7 +56,7 @@ This plugin integrates PayPal payment functionality into the Xboard panel. It al
 
 ### License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/kirakirai8023/Paypal-Plugin/blob/main/LICENSE) file for details.
 
 **Disclaimer**: This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
